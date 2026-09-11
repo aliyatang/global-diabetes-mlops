@@ -1,0 +1,14 @@
+{
+  "_meta": {
+    "split_year": 2008,
+    "pipeline_run_id": "f350ada5-b886-4309-88da-a74457c17cb3"
+  },
+  "obesity_level": {
+    "mean": 12.355089,
+    "std": 10.64232
+  },
+  "obesity_trend": {
+    "mean": 0.322448,
+    "std": 0.227499
+  }
+}
